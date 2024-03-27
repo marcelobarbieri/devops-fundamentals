@@ -22,6 +22,7 @@
     <li><a href="id-07">Entendendo as opções do repositório</a></li>
     <li><a href="id-08">Explorando as opções do repostiório</a></li>
     <li><a href="id-09">Criando issues</a></li>
+    <li><a href="id-10">Criando projetos no GitHub</a></li>
 </ul>
 
 </details>
@@ -172,6 +173,25 @@ Utilizar ferramenta externa para gerenciamento do projeto
 <details>
 <summary id="id-09">Criando issues</summary>
 <br/>
+
+</details>
+
+<!--#endregion -->
+
+<!--#region Criando projetos no GitHub -->
+
+<details>
+<summary id="id-10">Criando projetos no GitHub</summary>
+<br/>
+
+Repositório N:N Projetos
+
+Board:
+- Backlog
+- ToDo
+- Doing
+- QA
+- Done
 
 </details>
 
