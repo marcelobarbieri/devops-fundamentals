@@ -18,6 +18,7 @@
     <li><a href="id-03">Terminal e Git</a></li>
     <li><a href="id-04">Um overview sobre o GitHub</a></li>
     <li><a href="id-05">Entendendo os repositórios</a></li>
+    <li><a href="id-06">Criando seu primeiro repositório</a></li>
 </ul>
 
 </details>
@@ -108,6 +109,16 @@ https://github.com/cli/cli/releases/tag/v2.46.0
 
 <details>
 <summary id="id-05">Entendendo os repositórios</summary>
+<br/>
+
+</details>
+
+<!--#endregion -->
+
+<!--#region Criando seu primeiro repositório -->
+
+<details>
+<summary id="id-06">Criando seu primeiro repositório</summary>
 <br/>
 
 </details>
