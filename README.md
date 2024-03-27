@@ -15,6 +15,7 @@
 <ul>
     <li><a href="id-01">Apresentação</a></li>
     <li><a href="id-02">O que é DevOps</a></li>
+    <li><a href="id-03">Terminal e Git</a></li>
 </ul>
 
 </details>
@@ -54,6 +55,25 @@ O que você vai aprender?
 <br/>
 
 **DevOps** (Developer and Operations) é uma cultura
+
+</details>
+
+<!--#endregion -->
+
+<!--#region Terminal e Git -->
+
+<details>
+<summary id="id-03">Terminal e Git</summary>
+<br/>
+
+Ferramentas:
+- https://ohmyposh.dev/
+- https://git-scm.com/
+
+```
+git --version
+git version 2.44.0.windows.1
+```
 
 </details>
 
