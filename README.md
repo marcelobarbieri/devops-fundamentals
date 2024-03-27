@@ -14,6 +14,7 @@
 
 <ul>
     <li><a href="id-01">Apresentação</a></li>
+    <li><a href="id-02">O que é DevOps</a></li>
 </ul>
 
 </details>
@@ -41,6 +42,18 @@ O que você vai aprender?
 - Microsoft Azure
 
 > Deployment de uma aplicação completa, totalmente automatizado
+
+</details>
+
+<!--#endregion -->
+
+<!--#region O que é DevOps -->
+
+<details>
+<summary id="id-02">O que é DevOps</summary>
+<br/>
+
+**DevOps** (Developer and Operations) é uma cultura
 
 </details>
 
