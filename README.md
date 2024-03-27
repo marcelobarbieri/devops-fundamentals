@@ -20,6 +20,7 @@
     <li><a href="id-05">Entendendo os repositórios</a></li>
     <li><a href="id-06">Criando seu primeiro repositório</a></li>
     <li><a href="id-07">Entendendo as opções do repositório</a></li>
+    <li><a href="id-08">Explorando as opções do repostiório</a></li>
 </ul>
 
 </details>
@@ -132,8 +133,34 @@ https://github.com/cli/cli/releases/tag/v2.46.0
 <summary id="id-07">Entendendo as opções do repositório</summary>
 <br/>
 
-Unwatch - Notificações
-Fork - Cópia do Projeto
+- Unwatch - Notificações
+- Fork - Cópia do Projeto
+
+</details>
+
+<!--#endregion -->
+
+<!--#region Explorando as opções do repositório -->
+
+<details>
+<summary id="id-08">Explorando as opções do repositório</summary>
+<br/>
+
+- Code
+- Issues
+- Pull requests
+- Actions
+- Projects
+- Wiki
+- Security
+- Insights
+- Settings
+
+Separar código de tarefas administrativas:
+- GitHub
+- Asana
+
+Utilizar ferramenta externa para gerenciamento do projeto
 
 </details>
 
