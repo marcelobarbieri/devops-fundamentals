@@ -21,6 +21,7 @@
     <li><a href="id-06">Criando seu primeiro repositório</a></li>
     <li><a href="id-07">Entendendo as opções do repositório</a></li>
     <li><a href="id-08">Explorando as opções do repostiório</a></li>
+    <li><a href="id-09">Criando issues</a></li>
 </ul>
 
 </details>
@@ -161,6 +162,16 @@ Separar código de tarefas administrativas:
 - Asana
 
 Utilizar ferramenta externa para gerenciamento do projeto
+
+</details>
+
+<!--#endregion -->
+
+<!--#region Criando issues -->
+
+<details>
+<summary id="id-09">Criando issues</summary>
+<br/>
 
 </details>
 
