@@ -16,6 +16,7 @@
     <li><a href="id-01">Apresentação</a></li>
     <li><a href="id-02">O que é DevOps</a></li>
     <li><a href="id-03">Terminal e Git</a></li>
+    <li><a href="id-04">Um overview sobre o GitHub</a></li>
 </ul>
 
 </details>
@@ -70,9 +71,32 @@ Ferramentas:
 - https://ohmyposh.dev/
 - https://git-scm.com/
 
+> SCM - Source Control Manager
+
 ```
 git --version
 git version 2.44.0.windows.1
+```
+
+</details>
+
+<!--#endregion -->
+
+<!--#region Um overview sobre o GitHub -->
+
+<details>
+<summary id="id-04">Um overview sobre o GitHub</summary>
+<br/>
+
+http://github.com/
+
+https://cli.github.com/
+
+```
+gh --version
+
+gh version 2.46.0 (2024-03-20)
+https://github.com/cli/cli/releases/tag/v2.46.0
 ```
 
 </details>
