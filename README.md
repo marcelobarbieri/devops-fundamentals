@@ -23,6 +23,7 @@
     <li><a href="id-08">Explorando as opções do repostiório</a></li>
     <li><a href="id-09">Criando issues</a></li>
     <li><a href="id-10">Criando projetos no GitHub</a></li>
+    <li><a href="id-11">Issues e projects</a></li>
 </ul>
 
 </details>
@@ -192,6 +193,16 @@ Board:
 - Doing
 - QA
 - Done
+
+</details>
+
+<!--#endregion -->
+
+<!--#region Issues e projects -->
+
+<details>
+<summary id="id-11">Issues e projects</summary>
+<br/>
 
 </details>
 
