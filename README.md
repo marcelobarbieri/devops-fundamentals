@@ -25,6 +25,7 @@
     <li><a href="id-10">Criando projetos no GitHub</a></li>
     <li><a href="id-11">Issues e projects</a></li>
     <li><a href="id-12">Milestones</a></li>
+    <li><a href="id-13">Wiki</a></li>
 </ul>
 
 </details>
@@ -213,6 +214,16 @@ Board:
 
 <details>
 <summary id="id-12">Milestones</summary>
+<br/>
+
+</details>
+
+<!--#endregion -->
+
+<!--#region Wiki -->
+
+<details>
+<summary id="id-13">Wiki</summary>
 <br/>
 
 </details>
