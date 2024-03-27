@@ -24,6 +24,7 @@
     <li><a href="id-09">Criando issues</a></li>
     <li><a href="id-10">Criando projetos no GitHub</a></li>
     <li><a href="id-11">Issues e projects</a></li>
+    <li><a href="id-12">Milestones</a></li>
 </ul>
 
 </details>
@@ -202,6 +203,16 @@ Board:
 
 <details>
 <summary id="id-11">Issues e projects</summary>
+<br/>
+
+</details>
+
+<!--#endregion -->
+
+<!--#region Milestones -->
+
+<details>
+<summary id="id-12">Milestones</summary>
 <br/>
 
 </details>
