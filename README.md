@@ -17,6 +17,7 @@
     <li><a href="id-02">O que é DevOps</a></li>
     <li><a href="id-03">Terminal e Git</a></li>
     <li><a href="id-04">Um overview sobre o GitHub</a></li>
+    <li><a href="id-05">Entendendo os repositórios</a></li>
 </ul>
 
 </details>
@@ -98,6 +99,16 @@ gh --version
 gh version 2.46.0 (2024-03-20)
 https://github.com/cli/cli/releases/tag/v2.46.0
 ```
+
+</details>
+
+<!--#endregion -->
+
+<!--#region Entendendo os repositórios -->
+
+<details>
+<summary id="id-05">Entendendo os repositórios</summary>
+<br/>
 
 </details>
 
